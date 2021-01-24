@@ -3,7 +3,7 @@
 
 This is the backend project from Northcorders coding bootcamp. This is a news article API to access application data programmatically. A backend service is built to provide information to the front end architecture. 
 
-Hosted on Heroku. https://nc-news-ayako-bland.herokuapp.com/
+Hosted on Heroku. https://nc-news-ayako-bland.herokuapp.com/api/topics
 
 ## Available API endpoints
 
