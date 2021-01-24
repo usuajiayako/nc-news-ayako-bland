@@ -7,26 +7,26 @@ Hosted on Heroku. https://nc-news-ayako-bland.herokuapp.com/
 
 ## Available API endpoints
 
-GET /api/topics
+1. GET /api/topics
 
-GET /api/users/:username
+2. GET /api/users/:username
 
-DELETE /api/articles/:article_id
-PATCH /api/articles/:article_id
-GET /api/articles/:article_id
+3. DELETE /api/articles/:article_id
+4. PATCH /api/articles/:article_id
+5. GET /api/articles/:article_id
 
-POST /api/articles/:article_id/comments
-GET /api/articles/:article_id/comments
+6. POST /api/articles/:article_id/comments
+7. GET /api/articles/:article_id/comments
 
-GET /api/articles
-POST /api/articles <--- works up tp here!!
+8. GET /api/articles
+9. POST /api/articles <--- works up tp here!!
 
-PATCH /api/comments/:comment_id
-DELETE /api/comments/:comment_id
+10. PATCH /api/comments/:comment_id
+11. DELETE /api/comments/:comment_id
 
-GET /api
+12. GET /api
 
-DELETE /api/articles/:article_id
-POST /api/topics
-POST /api/users
-GET /api/users
+13. DELETE /api/articles/:article_id
+14. POST /api/topics
+15. POST /api/users
+16. GET /api/users
