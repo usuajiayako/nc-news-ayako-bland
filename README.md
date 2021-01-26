@@ -22,7 +22,7 @@ https://github.com/usuajiayako/be-nc-news.git
 7. GET /api/articles/:article_id/comments
 
 8. GET /api/articles
-9. POST /api/articles <--- works up tp here!!
+9. POST /api/articles <--- works up to here!!
 
 10. PATCH /api/comments/:comment_id
 11. DELETE /api/comments/:comment_id
