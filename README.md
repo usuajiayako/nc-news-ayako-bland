@@ -5,7 +5,7 @@ This is the backend project from Northcorders coding bootcamp. This is a news ar
 
 Hosted on Heroku. https://nc-news-ayako-bland.herokuapp.com/api/topics
 
-# Codes for this repo is available here. 
+### Codes for this repo is available here. 
 https://github.com/usuajiayako/be-nc-news.git
 
 ## Available API endpoints
